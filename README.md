@@ -19,4 +19,6 @@ HTML - SASS - Javascript - React
 
 ## __Lien web du projet :__
 
-Voici un lien pour tester le jeu:
+Voici un lien pour tester l'application:
+
+https://hardcore-ptolemy-55d8cd.netlify.app/
